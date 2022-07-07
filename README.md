@@ -1,1 +1,1 @@
-This is a mini-project from Comp322.\
+A mini-project from Comp322.
